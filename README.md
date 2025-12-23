@@ -78,4 +78,13 @@ I’m passionate about **security-first cloud design**, automation, and mentorin
 
 ---
 
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sureshmallela&show_icons=true)
+
+
+
 ⭐ If you find my work useful, feel free to star ⭐ the repositories!
